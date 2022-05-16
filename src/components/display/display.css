@@ -1,0 +1,6 @@
+.display{
+  color: white;
+  display:flex;
+  justify-content: right;
+  margin-right: 1em;
+}
